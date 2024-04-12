@@ -1,0 +1,1 @@
+O projeto a ser implementado, é um site de receitas, que vai ser criado utilizando HTML.
